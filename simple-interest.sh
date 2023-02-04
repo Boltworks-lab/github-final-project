@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <Boltworks-lab>
+   # <your Github username>
 
    # Input:
    # p, principal amount
